@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$sadsadas
+  $END$
   </body>
 </html>
